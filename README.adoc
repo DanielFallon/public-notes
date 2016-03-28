@@ -1,0 +1,5 @@
+= README
+Daniel Fallon <Daniel@Fallon.io>
+
+This repository contains my thoughts and musings, maybe someday I will use them,
+maybe someday someone else will.
